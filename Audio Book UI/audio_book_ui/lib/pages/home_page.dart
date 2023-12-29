@@ -188,14 +188,6 @@ class HomePage extends StatelessWidget {
                     )],
                   ),
                 ),
-               
-
-                //! Author List
-                // * Top Authors Text
-
-                // * See All Button
-
-                // * Author List --> ListView.builder
 
                 //! Nav Bar
               ],
